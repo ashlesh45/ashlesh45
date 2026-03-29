@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Ashlesh Mallya
 
 ## About Me
